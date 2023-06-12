@@ -2,9 +2,9 @@
 <h3 align="center">A passionate software engineer from India</h3>
 
 
-- 🔭 I’m currently working on **MERN stack Project**
+- 🔭 I’m currently working on **Next js Performance and SEO **
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **<>**
 
 - 📝 I regularly write articles on [https://medium.com/@nagasai317](https://medium.com/@nagasai317)
 
